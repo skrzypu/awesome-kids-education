@@ -5,3 +5,6 @@ https://vim-adventures.com
 
 Learn GIT as a game  
 https://learngitbranching.js.org
+
+Learning programing online
+https://www.cyberskill.pl/aplikacje-do-nauki-programowania-dla-dzieci/
